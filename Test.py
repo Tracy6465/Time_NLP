@@ -8,7 +8,6 @@
 from TimeNormalizer import TimeNormalizer # 引入包
 
 tn = TimeNormalizer()
-
 res = tn.parse(target=u'晚上8点到上午10点之间') # target为待分析语句，timeBase为基准时间默认是当前时间
 print(res)
 
