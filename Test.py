@@ -5,7 +5,6 @@
 # @File    : Test.py
 # @Software: PyCharm
 # @Changed : tianyuningmou
-
 from TimeNormalizer import TimeNormalizer # 引入包
 
 tn = TimeNormalizer()
